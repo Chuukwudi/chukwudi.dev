@@ -1,2 +1,0 @@
-# chukwudi.dev
-portfolio website
